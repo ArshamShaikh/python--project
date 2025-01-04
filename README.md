@@ -13,15 +13,11 @@ The application is built in Python and uses the `colorama` and `tqdm` libraries 
 - **Progress Bar**: Visual progress bar displays the percentage of tasks completed.
 - **Color-Coded Output**: Uses `colorama` to highlight task statuses and progress.
 
-## Prerequisites
-
 Ensure you have the following installed:
 
 - Python 3.x
 - `colorama` library (for color-coded text)
 - `tqdm` library (for progress bar)
-
-### Installing Dependencies
 
 To install the necessary libraries, run the following commands:
 
@@ -65,17 +61,7 @@ Tasks Completed: 2/5
 [##########----------] 40%
 ```
 
-## Additional Features (Optional Enhancements)
 
-- **Due Dates**: Add optional due dates to tasks.
-- **Priority Levels**: Allow users to assign priority levels to tasks.
-- **Search or Filter**: Add a search functionality to filter tasks.
-
-## Acknowledgements
-
-- Python for providing an amazing programming language.
-- `colorama` for enabling text colorization.
-- `tqdm` for the progress bar functionality.
 
 
 
